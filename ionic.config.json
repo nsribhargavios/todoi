@@ -1,5 +1,7 @@
 {
   "name": "todoi",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
